@@ -11,12 +11,14 @@ The project was initially developed as a **command-line application**, with a fo
 * Add, update, delete, and view products
 * Manage supplier information
 * Record purchases and sales
-* Track product quantities and stock levels
-* Automatically update stock quantities
-* Identify low-stock products
-* View product and sales information
+* Automatically increase stock after purchases
+* Automatically reduce stock after sales
+* Display low-stock products
+* Generate top-selling product reports
+* View product purchase and sales history
 * SQLite database integration
-* Modular structure based on **Object-Oriented Programming (OOP)** principles
+* Interactive command-line interface
+* Modular structure using Object-Oriented Programming (OOP) principles
 
 ---
 
